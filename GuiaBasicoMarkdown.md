@@ -92,13 +92,13 @@ Tabela:
 
 Ingresso           		| Valor
 ----------------------- | ------
-Meia-Entrada S/ 3D 		| R$ 20
-Entrada-Inteira S/ 3D	| R$ 40
-Meia-Entrada C/ 3D 		| R$ 24
-Entrada-Inteira C/ 3D 	| R$ 48
+Meia-Entrada S/ 3D 		| R$20,00
+Entrada-Inteira S/ 3D	| R$40,00
+Meia-Entrada C/ 3D 		| R$24,00
+Entrada-Inteira C/ 3D 	| R$48,00
 
 ou
 
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
-Valor | Valor | Valor
+R$20,00 | R$40,00 | R$24,00
